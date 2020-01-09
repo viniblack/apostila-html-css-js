@@ -6,9 +6,10 @@ body {
   width: 940px;
 }
 
+/* arrumar a incompatibilidade que esta dando. esta diferente o index.html e o sobre.html */
+
 h1 {
-  background-image: url(../img/sobre-background.jpg);
-  padding: 10px;
+  margin-bottom: 20px;
 }
 
 #centro-distribuicao {
