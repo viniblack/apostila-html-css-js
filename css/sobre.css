@@ -44,12 +44,12 @@ figcaption {
   margin: 0 0 10px 10px;
 }
 
-.diferencias {
+#diferencias {
   margin-top: 15px;
   margin-bottom: 30px;
 }
 
-.diferencias ul {
+#diferencias ul {
   padding: 0 45px;
   text-indent: 15px;
 }
