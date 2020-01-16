@@ -3,16 +3,13 @@ body {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   margin-left: auto;
   margin-right: auto;
-  width: 940px;
 }
-
-/* arrumar a incompatibilidade que esta dando. esta diferente o index.html e o sobre.html */
 
 h1 {
   margin-bottom: 20px;
 }
 
-#centro-distribuicao {
+.centro-distribuicao {
   margin-left: auto;
   margin-right: auto;
   width: 550px;
@@ -21,6 +18,7 @@ h1 {
 h2 {
   border-bottom: 2px solid #333;
   margin-top: 30px;
+  margin-bottom: 15px;
 }
 
 p {
@@ -37,23 +35,21 @@ figure {
 }
 
 figcaption {
-  font-style: italic; 
+  font-style: italic;
   padding-top: 10px;
 }
 
-#familia-pelho {
+.familia-pelho {
   float: right;
   margin: 0 0 10px 10px;
 }
 
-#rodape {
-  color: #777;
-  margin: 30px 0;
-  padding: 30px 0;
+.diferencias {
+  margin-top: 15px;
+  margin-bottom: 30px;
 }
 
-#rodape img {
-  margin-right: 30px;
-  vertical-align: middle;
-  width: 94px;
+.diferencias ul {
+  padding: 0 45px;
+  text-indent: 15px;
 }
